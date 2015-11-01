@@ -3,7 +3,7 @@
   "description": "Builds Materialize distribution packages",
   "author": "Alvin Wang, Alan Chang",
   "url": "http://materializecss.com/",
-  "version": "0.97.1",
+  "version": "0.97.1a1",
   "repository": {
     "type": "git",
     "url": "git://github.com/Dogfalo/materialize.git"
@@ -28,9 +28,9 @@
     "grunt-notify": "^0.4.1",
     "grunt-remove-logging": "^0.2.0",
     "grunt-rename": "^0.1.4",
-    "grunt-sass": "^0.18.1",
+    "grunt-sass": "^1.1.0",
     "grunt-text-replace": "^0.4.0",
-    "node-sass": "^2.1.1",
+    "node-sass": "^3.4.1",
     "qunit": "^0.7.6"
   },
   "scripts": {
