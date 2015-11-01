@@ -13,6 +13,8 @@ Materialize, a CSS Framework based on material design
 Chrome 35+, Firefox 31+, Safari 7+, IE 10+
 
 ## Changelog
+- v0.97.1a (Nov 1, 2015)
+  - Tabs support of target attribute
 - v0.97.1 (Sep 13, 2015)
   - Added new range slider with uses noUiSlider to provide powerful options
   - Added CSS for Chips
